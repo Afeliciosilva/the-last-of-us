@@ -19,10 +19,5 @@ Navegação intuitiva 🧭
 
 Design inspirado no universo da série 🎮
 
-📚 Como Rodar o Projeto
-Clone o repositório: https://github.com/Afeliciosilva/the-last-of-us
-Acesse a pasta do projeto: cd nome-da-pasta
-Abra o arquivo index.html no seu navegador favorito!
-
 🤝 Contribuições
 Fique à vontade para abrir issues ou pull requests. Toda contribuição é bem-vinda!
